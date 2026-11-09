@@ -1,3 +1,7 @@
 requests
 yfinance
 pandas
+python-dotenv
+streamlit
+numpy
+plotly
